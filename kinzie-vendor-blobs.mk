@@ -147,7 +147,6 @@ PRODUCT_COPY_FILES += \
  vendor/motorola/kinzie/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
  vendor/motorola/kinzie/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
  vendor/motorola/kinzie/proprietary/lib/hw/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so \
- vendor/motorola/kinzie/proprietary/lib/hw/audio.primary.msm8994.so:system/lib/hw/audio.primary.msm8994.so \
  vendor/motorola/kinzie/proprietary/lib/hw/camera.vendor.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
  vendor/motorola/kinzie/proprietary/lib/hw/keystore.qcom.so:system/lib/hw/keystore.qcom.so \
  vendor/motorola/kinzie/proprietary/lib/hw/sensors.msm8994.so:system/lib/hw/sensors.msm8994.so \
