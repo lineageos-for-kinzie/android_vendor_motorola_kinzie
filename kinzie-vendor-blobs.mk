@@ -587,6 +587,6 @@ PRODUCT_COPY_FILES += \
  vendor/motorola/kinzie/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
  vendor/motorola/kinzie/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
  vendor/motorola/kinzie/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
- vendor/qcom/binaries/bluetooth/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
- vendor/qcom/binaries/bluetooth/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
- vendor/qcom/binaries/bluetooth/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so 
+ vendor/motorola/kinzie/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
+ vendor/motorola/kinzie/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
+ vendor/motorola/kinzie/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so
